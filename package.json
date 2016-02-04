@@ -1,0 +1,9 @@
+{
+  "name": "gchq_challenge",
+  "description": "A package to solve 1st level grid challenge",
+  "author": "Stefano",
+  "dependencies": {
+    "underscore": "1.8.x"
+  },
+  "engine": "node >= 0.12.0"
+}
